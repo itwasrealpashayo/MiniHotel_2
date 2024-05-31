@@ -7,29 +7,17 @@
   2. Для испозьования приложения импортируйте скрипт БД в SQL Server - MiniHotel.sql
   3. Авторизуйтесь:
      Менеджер
-     #
-       Логин  Пароль
-     #
-       windle	2PAUAd0gMZ Афанасьев	Никита	Львович	
-       improv	bcFFGU16f6 Кириллова	Мария	Львовна	
-       fiches	LO1qRB42GP Кондрашов	Иван	Даниилович
+       Логин windle, improv, fiches
+       Пароль 2PAUAd0gMZ, bcFFGU16f6, LO1qRB42GP
      #
      Сотрудник предоставления услуг отеля
-     #
-       Логин  Пароль
-     #
-       bellum	ZjXm3JW7RJ Зайцева	Алиса	Адамовна	
-       siller	dVMfx1VMFF Фадеев	Степан	Романович	
-       fautor	RJ41C0qynP Зиновьев	Станислав	Демидович	
-       coated	8g2FubQVZH Корнев	Андрей	Ильич	
+       Логин bellum, siller, fautor, coated
+       Пароль ZjXm3JW7RJ, dVMfx1VMFF, RJ41C0qynP, 8g2FubQVZH
      #
      Сотрудника обслуживания номеров
-     #
-       Логин  Пароль
-     #
-       ragman	25Y9oOkwHn Яковлева	Ева	Максимовна
-       rubies	cmjcFvB3cI Селиванов	Николай	Даниилович
-       moving	A8HPZz9HTG Савина	Анна	Серафимовна	
+       Логин ragman, rubies, moving
+       Пароль 25Y9oOkwHn, cmjcFvB3cI, A8HPZz9HTG
+
      
      
 
