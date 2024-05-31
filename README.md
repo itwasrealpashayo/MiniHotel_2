@@ -7,23 +7,23 @@
   2. Для испозьования приложения импортируйте скрипт БД в SQL Server - MiniHotel.sql
   3. Авторизуйтесь:
      #
-     Менеджер
+     Менеджер:
      #
-       Логин windle, improv, fiches
+       Логин - windle, improv, fiches
      #
-       Пароль 2PAUAd0gMZ, bcFFGU16f6, LO1qRB42GP
+       Пароль - 2PAUAd0gMZ, bcFFGU16f6, LO1qRB42GP
      #
-     Сотрудник предоставления услуг отеля
+     Сотрудник предоставления услуг отеля:
      #
-       Логин bellum, siller, fautor, coated
+       Логин - bellum, siller, fautor, coated
      #
-       Пароль ZjXm3JW7RJ, dVMfx1VMFF, RJ41C0qynP, 8g2FubQVZH
+       Пароль - ZjXm3JW7RJ, dVMfx1VMFF, RJ41C0qynP, 8g2FubQVZH
      #
-     Сотрудника обслуживания номеров
+     Сотрудника обслуживания номеров:
      #
-       Логин ragman, rubies, moving
+       Логин - ragman, rubies, moving
      #
-       Пароль 25Y9oOkwHn, cmjcFvB3cI, A8HPZz9HTG
+       Пароль - 25Y9oOkwHn, cmjcFvB3cI, A8HPZz9HTG
 
      
      
