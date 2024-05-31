@@ -27,7 +27,7 @@ namespace MiniHotel_2.Pages
 
         private void BtnOrder_Click(object sender, RoutedEventArgs e)
         {
-            Utility.Manager.MainFrame.Navigate(new PageOrder());
+            FrameSecond.Navigate(new PageOrder());
         }
 
         private void BtnExit_Click(object sender, RoutedEventArgs e)
